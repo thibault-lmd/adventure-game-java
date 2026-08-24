@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Item
+comment0.text=\r\n\ Classe\ Item\ -\ repr\u00E9sente\ un\ objet\ pouvant\ se\ trouver\ dans\ une\ pi\u00E8ce\ ou\ \u00EAtre\ port\u00E9\ par\ le\ joueur.\r\n\ Chaque\ item\ poss\u00E8de\ un\ nom,\ une\ description\ et\ un\ poids.\r\n\r\n\ @author\ LAM-DETRAIT\ Thibault\r\n\ @version\ 2026.04\r\n
+comment1.params=pName\ pDescription\ pWeight
+comment1.target=Item(java.lang.String,\ java.lang.String,\ double)
+comment1.text=\r\n\ Initialise\ un\ item\ avec\ son\ nom,\ sa\ description\ et\ son\ poids.\r\n
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment2.text=\r\n\ Retourne\ le\ nom\ court\ de\ l'item.\r\n
+comment3.params=
+comment3.target=java.lang.String\ getDescription()
+comment3.text=\r\n\ Retourne\ la\ description\ d\u00E9taill\u00E9e\ de\ l'item.\r\n
+comment4.params=
+comment4.target=double\ getWeight()
+comment4.text=\r\n\ Retourne\ le\ poids\ de\ l'item.\r\n
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment5.text=\r\n\ Retourne\ une\ repr\u00E9sentation\ textuelle\ de\ l'item\r\n\ avec\ son\ nom,\ sa\ description\ et\ son\ poids.\r\n
+numComments=6

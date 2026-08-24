@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Command
+comment0.text=\r\n\ Classe\ Command\ -\ repr\u00E9sente\ une\ commande\ tap\u00E9e\ par\ le\ joueur.\r\n\ Une\ commande\ est\ compos\u00E9e\ d'un\ premier\ mot\ et\r\n\ d'un\ second\ mot\ optionnel\ .\r\n\r\n\ @author\ LAM-DETRAIT\ Thibault\r\n\ @version\ 2026.04\r\n
+comment1.params=pCommandWord\ pSecondWord
+comment1.target=Command(java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Initialise\ une\ commande\ avec\ son\ mot\ principal\ et\ son\ compl\u00E9ment\ \u00E9ventuel.\r\n
+comment2.params=
+comment2.target=java.lang.String\ getCommandWord()
+comment2.text=\r\n\ Retourne\ le\ premier\ mot\ de\ la\ commande.\r\n
+comment3.params=
+comment3.target=java.lang.String\ getSecondWord()
+comment3.text=\r\n\ Retourne\ le\ second\ mot\ de\ la\ commande.\r\n
+comment4.params=
+comment4.target=boolean\ hasSecondWord()
+comment4.text=\r\n\ Retourne\ true\ si\ la\ commande\ contient\ un\ second\ mot.\r\n
+comment5.params=
+comment5.target=boolean\ isUnknown()
+comment5.text=\r\n\ Retourne\ true\ si\ le\ premier\ mot\ de\ la\ commande\ est\ inconnu.\r\n
+numComments=6

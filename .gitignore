@@ -1,0 +1,17 @@
+# Build output
+build/
+dist/
+target/
+out/
+bin/
+*.class
+*.jar
+
+# IDE
+.idea/
+*.iml
+nbproject/private/
+.settings/
+.classpath
+.project
+.vscode/

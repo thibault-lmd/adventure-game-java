@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Game
+comment0.text=\r\n\ Classe\ Game\ -\ point\ d'entr\u00E9e\ du\ jeu\ The\ Submerged\ City.\r\n\ Cr\u00E9e\ et\ relie\ le\ moteur\ de\ jeu\ et\ l'interface\ graphique.\r\n\r\n\ @author\ LAM-DETRAIT\ Thibault\r\n
+comment1.params=
+comment1.target=Game()
+comment1.text=\r\n\ Initialise\ le\ jeu\ en\ cr\u00E9ant\ le\ moteur\ et\ l'interface\ graphique,\r\n\ puis\ les\ relie\ entre\ eux.\r\n
+numComments=2

@@ -1,0 +1,6 @@
+help
+look
+go down
+items
+take Bottle
+eat Bottle

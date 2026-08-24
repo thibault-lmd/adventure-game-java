@@ -1,0 +1,73 @@
+help
+look
+items
+take Telescope
+items
+go down
+look
+take Bottle
+eat Bottle
+take Cookie
+items
+go down
+go west
+alea v3
+go north
+look
+alea
+go south
+look
+go west
+look
+go south
+take Fins
+items
+go north
+go east
+look
+go east
+look
+go west
+go south
+unlock Key1
+go south
+look
+take Key1
+items
+go north
+go east
+look
+take Trash
+take Key2
+items
+drop Trash
+go west
+go west
+look
+go south
+look
+go north
+go east
+go south
+go south
+look
+go north
+go west
+go south
+look
+go north
+go up
+look
+charge Beamer
+go down
+fire Beamer
+back
+back
+back
+unlock Key2
+go up
+look
+eat Cookie
+items
+back
+quit

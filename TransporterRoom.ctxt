@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=TransporterRoom
+comment0.text=\r\n\ Classe\ TransporterRoom\ -\ pi\u00E8ce\ sp\u00E9ciale\ qui\ t\u00E9l\u00E9porte\ le\ joueur\ al\u00E9atoirement.\r\n\ H\u00E9rite\ de\ Room\ et\ red\u00E9finit\ getExit()\ pour\ retourner\ une\ pi\u00E8ce\ al\u00E9atoire.\r\n\r\n\ @author\ LAM-DETRAIT\ Thibault\r\n\ @version\ 2026.04\r\n
+comment1.params=pDescription\ pImage\ pRandomizer
+comment1.target=TransporterRoom(java.lang.String,\ java.lang.String,\ RoomRandomizer)
+comment1.text=\r\n\ Initialise\ la\ pi\u00E8ce\ t\u00E9l\u00E9porteur\ avec\ son\ image\ et\ son\ randomizer.\r\n
+comment2.params=pDirection
+comment2.target=Room\ getExit(java.lang.String)
+comment2.text=\r\n\ Retourne\ une\ pi\u00E8ce\ al\u00E9atoire\ quelle\ que\ soit\ la\ direction\ indiqu\u00E9e.\r\n
+comment3.params=pDirection
+comment3.target=Room\ getExitIgnoreDoors(java.lang.String)
+comment3.text=\r\n\ Retourne\ une\ pi\u00E8ce\ al\u00E9atoire\ quelle\ que\ soit\ la\ direction\ indiqu\u00E9e.\r\n\ Red\u00E9finit\ getExitIgnoreDoors()\ pour\ que\ le\ comportement\ soit\ coh\u00E9rent.\r\n
+numComments=4

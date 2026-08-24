@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Door
+comment0.text=\r\n\ Classe\ Door\ -\ repr\u00E9sente\ une\ porte\ pouvant\ \u00EAtre\ verrouill\u00E9e.\r\n\ Une\ porte\ relie\ deux\ pi\u00E8ces\ et\ n\u00E9cessite\ une\ cl\u00E9\ sp\u00E9cifique\ pour\ \u00EAtre\ ouverte.\r\n\r\n\ @author\ LAM-DETRAIT\ Thibault\r\n\ @version\ 2026.04\r\n
+comment1.params=pRoom1\ pRoom2\ pKeyName
+comment1.target=Door(Room,\ Room,\ java.lang.String)
+comment1.text=\r\n\ Initialise\ une\ porte\ entre\ deux\ pi\u00E8ces\ avec\ une\ cl\u00E9\ sp\u00E9cifique.\r\n
+comment2.params=
+comment2.target=boolean\ isLocked()
+comment2.text=\r\n\ Retourne\ true\ si\ la\ porte\ est\ verrouill\u00E9e.\r\n
+comment3.params=pKeyName
+comment3.target=boolean\ unlock(java.lang.String)
+comment3.text=\r\n\ Tente\ d'ouvrir\ la\ porte\ avec\ la\ cl\u00E9\ donn\u00E9e.\r\n\ Retourne\ true\ si\ la\ cl\u00E9\ est\ la\ bonne,\ false\ sinon.\r\n
+comment4.params=pRoom
+comment4.target=boolean\ connectsTo(Room)
+comment4.text=\r\n\ Retourne\ true\ si\ la\ pi\u00E8ce\ donn\u00E9e\ est\ l'une\ des\ deux\ pi\u00E8ces\ reli\u00E9es\ par\ la\ porte.\r\n
+comment5.params=
+comment5.target=java.lang.String\ getKeyName()
+numComments=6

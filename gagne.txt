@@ -1,0 +1,14 @@
+go down
+take Bottle
+eat Bottle
+go east
+go south
+go west
+go south
+go south
+go south
+take Key2
+go north
+go north
+unlock Key2
+go up

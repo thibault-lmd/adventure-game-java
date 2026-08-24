@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=RoomRandomizer
+comment0.text=\r\n\ Classe\ RoomRandomizer\ -\ choisit\ une\ pi\u00E8ce\ al\u00E9atoire\ parmi\ une\ liste\ de\ pi\u00E8ces.\r\n\r\n\ @author\ LAM-DETRAIT\ Thibault\r\n\ @version\ 2026.04\r\n
+comment1.params=
+comment1.target=RoomRandomizer()
+comment1.text=\r\n\ Initialise\ le\ randomizer\ avec\ une\ liste\ vide\ de\ pi\u00E8ces.\r\n
+comment2.params=pId\ pRoom
+comment2.target=void\ addRoom(java.lang.String,\ Room)
+comment2.text=\r\n\ Ajoute\ une\ pi\u00E8ce\ dans\ la\ liste\ des\ pi\u00E8ces\ accessibles.\r\n
+comment3.params=
+comment3.target=Room\ getRandomRoom()
+comment3.text=\r\n\ Retourne\ une\ pi\u00E8ce\ al\u00E9atoire\ parmi\ la\ liste.\r\n
+comment4.params=pRoom
+comment4.target=void\ setForcedRoom(Room)
+comment4.text=\r\n\ Force\ la\ prochaine\ t\u00E9l\u00E9portation\ vers\ une\ pi\u00E8ce\ pr\u00E9cise\ (mode\ test\ uniquement).\r\n
+comment5.params=
+comment5.target=void\ clearForcedRoom()
+comment5.text=\r\n\ Remet\ le\ tirage\ en\ mode\ al\u00E9atoire\ r\u00E9el.\r\n
+comment6.params=pId
+comment6.target=Room\ getRoom(java.lang.String)
+comment6.text=\r\n\ Retourne\ la\ pi\u00E8ce\ correspondant\ \u00E0\ l'identifiant\ donn\u00E9,\ ou\ null\ si\ introuvable.\r\n
+numComments=7

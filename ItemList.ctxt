@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=ItemList
+comment0.text=\r\n\ Classe\ ItemList\ -\ g\u00E8re\ une\ collection\ d'items.\r\n\ Utilis\u00E9e\ par\ Room\ et\ Player\ pour\ stocker\ leurs\ items\r\n\ sans\ que\ la\ collection\ soit\ accessible\ depuis\ l'ext\u00E9rieur\ \r\n\ comme\ demand\u00E9\ dans\ l'\u00E9nonc\u00E9\ du\ 7.31.1\r\n\r\n\ @author\ LAM-DETRAIT\ Thibault\r\n\ @version\ 2026.04\r\n
+comment1.params=
+comment1.target=ItemList()
+comment1.text=\r\n\ Initialise\ une\ liste\ d'items\ vide.\r\n
+comment2.params=pItem
+comment2.target=void\ addItem(Item)
+comment2.text=\r\n\ Ajoute\ un\ item\ \u00E0\ la\ liste\ en\ utilisant\ son\ nom\ comme\ cl\u00E9.\r\n
+comment3.params=pItemName
+comment3.target=Item\ removeItem(java.lang.String)
+comment3.text=\r\n\ Retire\ un\ item\ de\ la\ liste\ par\ son\ nom\ et\ le\ retourne.\r\n\ Retourne\ null\ si\ aucun\ item\ ne\ correspond.\r\n
+comment4.params=
+comment4.target=boolean\ isEmpty()
+comment4.text=\r\n\ Retourne\ true\ si\ la\ liste\ ne\ contient\ aucun\ item.\r\n
+comment5.params=pEmptyMessage\ pPrefix
+comment5.target=java.lang.String\ getItemString(java.lang.String,\ java.lang.String)
+comment5.text=\r\n\ Retourne\ la\ liste\ de\ tous\ les\ items\ avec\ leur\ poids\ total.\r\n\ Affiche\ pEmptyMessage\ si\ la\ liste\ est\ vide,\r\n\ sinon\ affiche\ pPrefix\ suivi\ de\ chaque\ item\ et\ du\ poids\ total.\r\n
+numComments=6
